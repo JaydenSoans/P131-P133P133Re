@@ -1,0 +1,40 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.mheading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+.room{
+    font-size: 23px;
+    background-color: white;
+    border-color: black;
+    border-radius: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.heading{
+    background-color: rgb(97, 215, 244);
+    background-size: cover;
+}
+
+.hstatus{
+    height: 40px;
+    width: 200px;
+    text-align: center;
+}
+
+.backbtn{
+    position:relative; left:800px;
+}
+
+canvas{
+    border-radius: 30px;
+}
